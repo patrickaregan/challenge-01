@@ -10,10 +10,8 @@ is one way to do that.
 
 
 ## Screenshot
-
-```md
 ![refactored Horiseon web page](assets/images/screenshot.png)
-```
+
 
 ## Link
 [https://patrickaregan.github.io/challenge-01/](https://patrickaregan.github.io/challenge-01/)
@@ -22,4 +20,4 @@ is one way to do that.
 
 coding-boot-camp/urban-octo-telegram. (February 13, 2020). Code Refactor Starter Code.
 Retrieved December 22, 2021,
-from [https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/)urban-octo-telegram
+from [https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
